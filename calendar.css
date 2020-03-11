@@ -1,1 +1,28 @@
 /* CSS file for calendar page
+*/
+html, body {
+	height: 100%;
+	margin: 0pz;
+	padding: 0px;
+}
+
+.Header{
+	font-style: bold;
+	background-color:#78be30;
+	height: 16%;
+	padding: 0px;
+	margin: 0px;
+}
+
+#logo{
+	padding-left: 18%;
+}
+
+.links{
+	color: white;
+	text-decoration: none;
+}
+
+.links:hover{
+	color: black;
+}
