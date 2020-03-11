@@ -1,1 +1,17 @@
-/* CSS file for calendar page
+/* CSS file for calendar page */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #78be30;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.footertext {
+    margin-left: 15%;
+    color: white;
+    line-height: 70%;
+    font-size: 13px;
+}
